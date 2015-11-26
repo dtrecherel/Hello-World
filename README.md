@@ -1,9 +1,7 @@
 Hello-World!
 ============
 
-This is my landing repository on GitHub.
-
-I am Didier Trécherel, a student in Computer Science at Telecom SudParis, a leading engineering school in France. I specialise in Computer Security.
+This is my landing repository on GitHub. I'll put here a bunch of useless things.
 
 If you have any question, feel free to contact me at <yuriko@xae.ro>, or open an issue! I declare myself operating by [Crocker's Rules][Crocker].
 
